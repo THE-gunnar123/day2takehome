@@ -1,0 +1,43 @@
+
+div{
+  outline: 1px solid black;
+}
+
+.container-fluid{
+  background-color: yellow;
+  padding: 50px;
+}
+
+.header{
+  background-color: blue;
+  height: 300px;
+}
+
+.nav{
+  background-color: green;
+  height: 100px;
+}
+
+.main{
+  background-color: red;
+  height: 500px;
+}
+
+.aside{
+  background-color: aqua;
+  height: 500px;
+}
+
+.promo{
+  background-color: orange;
+  height: 200px;
+}
+
+.footer{
+  background-color: black;
+  height: 100px;
+}
+
+.footer h3{
+  color: white;
+}
